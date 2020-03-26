@@ -1,0 +1,2 @@
+﻿mxnet中有训练好的模型
+在python中import mxnet
